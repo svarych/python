@@ -1,2 +1,2 @@
-# python
-Test repo for Bamboo
+# Jenkins
+Test repo for jenkins configuration
