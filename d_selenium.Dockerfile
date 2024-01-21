@@ -1,4 +1,4 @@
-FROM svarych:23.04
+FROM ubuntu:23.04
 LABEL maintainer="a.svarych@gmail.com"
 
 ADD requirements.selenium .
