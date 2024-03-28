@@ -1,4 +1,1 @@
 .idea
-__pycache__/
-.pytest_cache/
-jenkins_home/
